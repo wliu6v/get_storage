@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   get:
-      git:
+    git:
       url: https://github.com/wliu6v/getx.git
       ref: metaforo
   path_provider: ^2.0.1
