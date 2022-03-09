@@ -1,6 +1,6 @@
 name: get_storage
 description: A fast, extra light and synchronous key-value storage written entirely in Dart
-version: 2.0.3
+version: 2.0.3+1
 homepage: https://github.com/jonataslaw/get_storage
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
   get:
     git:
       url: https://github.com/wliu6v/getx.git
-      ref: metaforo
+      ref: master
   path_provider: ^2.0.1
   #platform_info: ^3.0.0-nullsafety.1
 
